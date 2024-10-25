@@ -1,11 +1,12 @@
 #div1{
     width: 100%;
     height: 80px;
-    background-color:
+    background-color:  #e6c074 ;
 
 
-    #e6c074 ;
+  
     /* position: fixed; */
+    /* pogit: fixed; */
 grid-template-columns: auto auto auto auto auto auto;;
 }  
 .div2{
